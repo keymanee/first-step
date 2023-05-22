@@ -1,0 +1,47 @@
+Last login: Mon May 22 21:30:58 on ttys002
+(base) keymany@gimhyeonhuiui-MacBookAir ~ % ㅊㅇ ~
+zsh: command not found: ㅊㅇ
+(base) keymany@gimhyeonhuiui-MacBookAir ~ % cd ~
+(base) keymany@gimhyeonhuiui-MacBookAir ~ % mkdir workplace
+(base) keymany@gimhyeonhuiui-MacBookAir ~ % cd workplace
+(base) keymany@gimhyeonhuiui-MacBookAir workplace % git init
+Initialized empty Git repository in /Users/keymany/workplace/.git/
+(base) keymany@gimhyeonhuiui-MacBookAir workplace % git status
+On branch main
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+(base) keymany@gimhyeonhuiui-MacBookAir workplace % cd ~/workplace
+(base) keymany@gimhyeonhuiui-MacBookAir workplace % git remote add origin https://github.com/keymanee/aiffel.git          
+(base) keymany@gimhyeonhuiui-MacBookAir workplace % git remote rm origin
+(base) keymany@gimhyeonhuiui-MacBookAir workplace % git init loc-git           
+Initialized empty Git repository in /Users/keymany/workplace/loc-git/.git/
+(base) keymany@gimhyeonhuiui-MacBookAir workplace % cd loc-git
+(base) keymany@gimhyeonhuiui-MacBookAir loc-git % vi f1.txt
+
+
+
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+"f1.txt" [New]
